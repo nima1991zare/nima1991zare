@@ -42,15 +42,6 @@ I focus on AI and back-end development: clean, production-ready Python systems t
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://img.shields.io/github/followers/nima1991zare?style=for-the-badge&logo=github&color=7f3ace&label=FOLLOWERS" alt="Nima Zare's GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/nima1991zare?affiliations=OWNER&style=for-the-badge&logo=github&color=7f3ace&label=TOTAL+STARS" alt="Nima Zare's total stars"/>
-</p>
-
-<img src="https://ghchart.rshah.org/7f3ace/nima1991zare" width="100%" alt="Nima Zare's GitHub contribution graph"/>
-
 ## 📫 Reach me
 
 <p>
