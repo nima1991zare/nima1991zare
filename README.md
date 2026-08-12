@@ -45,12 +45,10 @@ I focus on AI and back-end development: clean, production-ready Python systems t
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nima1991zare&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" height="165" alt="Nima Zare's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima1991zare&layout=compact&theme=midnight-purple&hide_border=true" height="165" alt="Nima Zare's most used languages"/>
+  <img src="https://streak-stats.demolab.com?user=nima1991zare&theme=midnight-purple&hide_border=true" height="170" alt="Nima Zare's GitHub streak"/>
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=nima1991zare&theme=midnight-purple&hide_border=true" height="165" alt="Nima Zare's GitHub streak"/>
-</p>
+
+<img src="https://ghchart.rshah.org/7f3ace/nima1991zare" width="100%" alt="Nima Zare's GitHub contribution graph"/>
 
 ## 📫 Reach me
 
