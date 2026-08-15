@@ -1,4 +1,4 @@
-<img src="assets/matrix-header.svg" width="100%" alt="Nima Zare — Full-Stack × AI Developer"/>
+﻿<img src="assets/rain-header.svg" width="100%" alt="Nima Zare — Full-Stack × AI Developer"/>
 
 <div align="center">
 
@@ -118,4 +118,4 @@ class NimaZare(Developer):
 
 </div>
 
-<img src="assets/matrix-footer.svg" width="100%" alt="matrix rain footer — wake up, the code is everywhere"/>
+<img src="assets/rain-footer.svg" width="100%" alt="matrix rain footer — wake up, the code is everywhere"/>
